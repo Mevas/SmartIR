@@ -1,5 +1,5 @@
 {
-  "name": "SmartIR",
+  "name": "SmartIR (Mevas Fork)",
   "homeassistant": "2024.5.0",
   "persistent_directory": "custom_codes",
   "zip_release": true,
